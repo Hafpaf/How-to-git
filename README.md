@@ -15,13 +15,13 @@ git push
 
 When `git commit` doesn't like you and promts this:
 
-`*** Please tell me who you are.
+```*** Please tell me who you are.
 
 Run
 
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
-`
+```
 Then run the two commands shown.
 If it fails after, try check `git config --global -l` to see if you wrote correctly.
 
