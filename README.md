@@ -15,7 +15,8 @@ git push
 
 When `git commit` doesn't like you and promts this:
 
-```*** Please tell me who you are.
+```
+*** Please tell me who you are.
 
 Run
 
