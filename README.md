@@ -40,7 +40,7 @@ The changes you made has now been uploaded.
 
 * Use `git status` to se all the changes made before the last commit
 
-### A wonderfull explanation about different how Git works
+### A wonderfull explanation about how Git works
 ![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
 
 
