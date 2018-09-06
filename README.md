@@ -28,3 +28,11 @@ If it fails after, try check `git config --global -l` to see if you wrote correc
 
 
 It is also possible to edit the config file in git with `git config --global --edit`
+
+
+Also read: 
+* https://blog.osteele.com/2008/05/my-git-workflow/#fnref:2
+* https://media.pragprog.com/titles/tsgit/chap-005-extract.html
+* https://stackoverflow.com/questions/14662526/why-git-is-not-allowing-me-to-commit-even-after-configuration#14662703
+
+Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#lists
