@@ -1,17 +1,30 @@
 # How-to-git
 Hafpafs simple guide to simple git
 
-![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
+1. Install git if you haven't already.
+  * Ubuntu: `sudo apt-get install git`
+  * Arch: `sudo pacman -S git`
+  * or use your prefered package installer
+
+2. Create a local copy of the repository
 
 `git clone git@url-for-repository`
 
+3. You are now ready to get hacking withing the code. Changes made to the files can be added to the next commit with.
+
 `git add file-you-changed`
+
+4. A **commit** means   
 
 `git commit -m "short explanaion of changes made"`
 
-`git push`
+5. `git push`
 
 
+![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
+
+
+## Git Commit troubleshooting
 
 When `git commit` doesn't like you and promts this:
 
