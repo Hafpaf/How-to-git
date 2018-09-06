@@ -7,7 +7,7 @@
   * Ubuntu: `sudo apt-get install git`
   * Arch: `sudo pacman -S git`
   * Windows: https://git-scm.com/
-  *Or just use your prefered package installer
+  * Or just use your prefered package installer
 
 #### 2. Create a local copy of the repository
 
@@ -24,6 +24,8 @@
 #### 5. Upload the the changes made to your local repository the the repository server.
 
 `git push`
+
+Congratulaions, you have now learned the 4 most essential commands og Git.
 
 ### Other commands
 
