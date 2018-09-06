@@ -1,11 +1,11 @@
-# How-to-git
-Hafpafs simple guide to simple git
+# How to git
+**Hafpafs simple guide to simple git**
 
 1. Install git if you haven't already.
   * Ubuntu: `sudo apt-get install git`
   * Arch: `sudo pacman -S git`
   * Windows: https://git-scm.com/
-  * or use your prefered package installer
+  *Or just use your prefered package installer
 
 2. Create a local copy of the repository
 
@@ -15,9 +15,7 @@ Hafpafs simple guide to simple git
 
 `git add file-you-changed`
 
-4. A **commit** means to record the changes made withing the local repository on you machine.
-
-You can easily make more commits before pushing.
+4. A **commit** means to record the changes made withing the local repository on you machine and you can easily make more commits before pushing.
 
 `git commit -m "short explanaion of changes made"`
 
@@ -29,6 +27,7 @@ You can easily make more commits before pushing.
 
 * Use `git status` to se all the changes made before the last commit
 
+### A wonderfull explanation about different how Git works
 ![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
 
 
@@ -46,7 +45,8 @@ Run
   git config --global user.name "Your Name"
 ```
 Then run the two commands shown.
-If it fails after, try check `git config --global -l` to see if you wrote correctly.
+
+Try to run the commit again, if it fails again and promts the same message, use `git config --global -l` to see if you wrote correctly.
 
 
 It is also possible to edit the config file in git with `git config --global --edit`
