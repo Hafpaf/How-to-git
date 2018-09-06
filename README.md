@@ -1,25 +1,27 @@
 # How to git
 **Hafpafs simple guide to simple git**
 
-1. Install git if you haven't already.
+## The Basic commands
+
+#### 1. Install git if you haven't already.
   * Ubuntu: `sudo apt-get install git`
   * Arch: `sudo pacman -S git`
   * Windows: https://git-scm.com/
   *Or just use your prefered package installer
 
-2. Create a local copy of the repository
+#### 2. Create a local copy of the repository
 
 `git clone git@url-for-repository`
 
-3. You are now ready to get hacking withing the code. Changes made to the files can be added to the next commit with.
+#### 3. You are now ready to get hacking with the code. Changes made to the files can be added to the next commit with.
 
 `git add file-you-changed`
 
-4. A **commit** means to record the changes made withing the local repository on you machine and you can easily make more commits before pushing.
+#### 4. A **commit** means to record the changes made withing the local repository on you machine and you can easily make more commits before pushing.
 
 `git commit -m "short explanaion of changes made"`
 
-5. Upload the the changes made to your local repository the the repository server.
+#### 5. Upload the the changes made to your local repository the the repository server.
 
 `git push`
 
