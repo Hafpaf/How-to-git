@@ -1,5 +1,6 @@
 # How to git
-**Hafpafs simple guide to simple git**
+
+**A guide for Git containing the most essential commands and how to use them.**
 
 ## The Basic commands
 
