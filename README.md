@@ -3,13 +3,13 @@ Hafpafs simple guide to simple git
 
 ![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
 
-git clone url-for-repository
+`git clone git@url-for-repository`
 
-git add file-changed
+`git add file-you-changed`
 
-git commit -m "changes made"
+`git commit -m "short explanaion of changes made"`
 
-git push
+`git push`
 
 
 
