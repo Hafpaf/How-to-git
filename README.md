@@ -18,6 +18,8 @@
 
 `git add file-you-changed`
 
+Note: it is possible to *add* a file or a folder
+
 #### 4. A **commit** means to record the changes made withing the local repository on you machine and you can easily make more commits before pushing.
 
 `git commit -m "short explanaion of changes made"`
