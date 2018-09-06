@@ -4,6 +4,7 @@ Hafpafs simple guide to simple git
 1. Install git if you haven't already.
   * Ubuntu: `sudo apt-get install git`
   * Arch: `sudo pacman -S git`
+  * Windows: https://git-scm.com/
   * or use your prefered package installer
 
 2. Create a local copy of the repository
@@ -14,14 +15,22 @@ Hafpafs simple guide to simple git
 
 `git add file-you-changed`
 
-4. A **commit** means   
+4. A **commit** means to record the changes made withing the local repository on you machine.
+
+You can easily make more commits before pushing.
 
 `git commit -m "short explanaion of changes made"`
 
-5. `git push`
+5. Upload the the changes made to your local repository the the repository server.
 
+`git push`
+
+### Other commands
+
+* Use `git status` to se all the changes made before the last commit
 
 ![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
+
 
 
 ## Git Commit troubleshooting
