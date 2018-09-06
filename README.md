@@ -33,6 +33,6 @@ It is also possible to edit the config file in git with `git config --global --e
 Also read: 
 * https://blog.osteele.com/2008/05/my-git-workflow/
 * https://media.pragprog.com/titles/tsgit/chap-005-extract.html
-* https://stackoverflow.com/questions/14662526/why-git-is-not-allowing-me-to-commit-even-after-configuration#14662703
+* https://stackoverflow.com/questions/14662526/why-git-is-not-allowing-me-to-commit-even-after-configuration
 
-Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#lists
+Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
