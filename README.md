@@ -64,6 +64,16 @@ Try to run the commit again, if it fails again and promts the same message, use 
 
 It is also possible to edit the config file in git with `git config --global --edit`
 
+## Pull Request
+When colaborating with others, it can be a good idea to create a new branch for major edits in your code while also being able to merge new edits from your colaborators.
+#### 1. Create new branch
+'''git checkout -b <branch_name>'''
+#### 2. Write your code.
+
+#### 3. Switch branch
+'''git checkout master'''
+For 
+
 
 Also read: 
 * https://blog.osteele.com/2008/05/my-git-workflow/
@@ -71,3 +81,5 @@ Also read:
 * https://stackoverflow.com/questions/14662526/why-git-is-not-allowing-me-to-commit-even-after-configuration
 
 Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+
+
