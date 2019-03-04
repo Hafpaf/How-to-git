@@ -67,15 +67,34 @@ It is also possible to edit the config file in git with `git config --global --e
 ## Pull Request
 When colaborating with others, it can be a good idea to create a new branch for major edits in your code while also being able to merge new edits from your colaborators.
 #### 1. Create new branch
-'''git checkout -b <branch_name>'''
+```git
+git checkout -b <branch_name>`
+```
 #### 2. Write your code.
 
 #### 3. Switch branch
-'''git checkout master'''
-For 
+```git
+git checkout master
+```
+or push branch to remote
+
+```git
+git push -u origin <branch>
+```
+
+## Rename Branch
+### Rename a branch
+```git
+git branch -m <oldname> <newname>
+```
+
+### Rename current branch
+```git
+git branch -m <newname>
+```
 
 
-Also read: 
+# Ressources 
 * https://blog.osteele.com/2008/05/my-git-workflow/
 * https://media.pragprog.com/titles/tsgit/chap-005-extract.html
 * https://stackoverflow.com/questions/14662526/why-git-is-not-allowing-me-to-commit-even-after-configuration
@@ -83,3 +102,6 @@ Also read:
 Markdown cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
 
 
+## Sources used
+* [Push local branch](http://stackoverflow.com/questions/2765421/ddg#6232535)
+* [Rename local branch](http://stackoverflow.com/questions/6591213/ddg#6591218)
