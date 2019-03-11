@@ -43,6 +43,7 @@ The changes you made has now been uploaded.
 ### A wonderfull explanation about how Git works
 ![alt text](https://i.imgur.com/Aofvzhw.png "Git transport")
 
+Image taken from [https://blog.osteele.com/2008/05/my-git-workflow/](blog.osteele.com)
 
 
 ## Git Commit troubleshooting
